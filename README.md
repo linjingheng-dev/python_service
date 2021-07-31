@@ -2,6 +2,9 @@
 
 如果该项目对你有所帮助，麻烦点点小星星鼓励鼓励。
 
+[![image](https://img.shields.io/badge/Python-Version3-yellow)](https://www.python.org/)
+[![image](https://img.shields.io/badge/Django-Version2-green)](https://docs.djangoproject.com/zh-hans/2.1/)
+
 ## 展望
 该项目希望能在精通前端开发之后，再次用来学习 Python 编程。
 
