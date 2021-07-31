@@ -7,7 +7,7 @@
 
 ## 项目背景
 
-项目创建之初，是为了总结工作中用到的 Node.js 相关的知识并进行模拟实践，因此就产生了该 Python 后端服务用于辅助学习总结。   
+项目创建之初，是为了总结工作中用到的 [Node.js](https://github.com/linjingheng-dev/koa_service.git) 相关的知识并进行模拟实践，因此就产生了该 Python 后端服务用于辅助学习总结。   
 <br/>
 通过搭建服务与编写服务，发现 Python 在很多写法上与 JS 相似，同时也掌握了 Python 编程基础知识，为后续完成[网络爬虫](https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/5162711)程序编写提供了一定的编写经验，为我的亲人做出了一些有意义的事情。
 
