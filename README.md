@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/badge/Django-Version2-green)](https://docs.djangoproject.com/zh-hans/2.1/)
 
 ## 展望
-该项目希望能在精通前端开发之后，再次用来学习 Python 编程。
+该项目希望能在前端开发领域有所成就之后，用来开拓自身业务能力，学习 Python 编程。
 
 ## 项目背景
 
